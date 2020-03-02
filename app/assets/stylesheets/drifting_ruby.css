@@ -12,6 +12,14 @@ ul.navigation {
   margin-right: 10px;
 }
 
+.well {
+  /* width: 80%; */
+  padding: 20px 40px;
+  margin-top: 25px;
+  border: solid 1px black;
+  background-color: #eceeef;
+}
+
 body {
   background-color: #eceeef;
   font-family: Verdana, Helvetica, Arial;

@@ -1,0 +1,6 @@
+<%= form_with(model: comment, local: true) do |form| %>
+  <%= form.rich_text_area :content %>
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>
